@@ -1,5 +1,5 @@
 ##  Поведение клиента в мобильном приложении.<br>Исследование результатов А/А/В теста для изменения шрифтов в приложении.
-[ipynb](https://github.com/Ezekiel-Konrad/Data-Analysis/blob/main/A_A_B_test_%D1%81ustomer_behavior/A_A_B_test_%D1%81ustomer_behavior.ipynb)
+[ipynb](https://github.com/Ezekiel-Konrad/Data-Analysis/blob/main/A_A_B_test_%D1%81ustomer_behavior_food_app/A_A_B_test_%D1%81ustomer_behavior.ipynb)
 
 ## Описание проекта
 
