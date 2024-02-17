@@ -32,4 +32,4 @@
 
 *Смотри дашборд в моем профиле **[Interactive Dashboard](https://public.tableau.com/app/profile/oleg.vitebskiy/viz/Dashboard_credit_bank/debt_research)**  Tableau Public profile.*  
 
-<a href="https://ibb.co/YyZmzX5"><img src="https://i.ibb.co/NmS58r0/image.png" alt="image" border="0" /></a>
+![debt_dashboard](https://github.com/Ezekiel-Konrad/Data-Analysis/blob/main/Tableau/debt_dashboard.png)
